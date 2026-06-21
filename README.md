@@ -1,7 +1,7 @@
 # Return Home
 
 A space shooter for the **Amstrad CPC** (464 / 664 / 6128), written in hand-coded
-Z80 assembly. Mode 0, 16 colours, hardware double-buffered, and completely
+Z80 assembly by Claude Code. Mode 0, 16 colours, hardware double-buffered, and completely
 **firmware-less** — it takes over the machine on boot and talks straight to the
 Gate Array, CRTC, PSG and keyboard.
 
