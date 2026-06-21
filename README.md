@@ -12,6 +12,11 @@ quiet houses as you near home. Survive five sectors and you're home.
 
 > Status: developed and tested with emulators (JavaCPC, plus a custom Z80
 > emulator in `tools/z80test.py`). Not yet verified on original hardware.
+---
+
+![Loading Screen](images/loading.png) 
+![Title Screen](images/title.png) 
+![Game Screen](images/game.png) 
 
 ---
 
